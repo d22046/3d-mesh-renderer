@@ -174,7 +174,7 @@ while True:
     for vertex in vertices:
         draw_vertex(vertex, red)
 
-    #connect the vertexs here.
+    #connect the vertices here.
     draw_line ( 0 , 1 )
     draw_line ( 0 , 2 )
     draw_line ( 3 , 1 )
