@@ -25,7 +25,6 @@ def radian(number):
 
 x_rotation = radian(0.8)
 y_rotation = radian(0.8)
-print(x_rotation, y_rotation)
 
 #clockwise (p) and counter_clockwise (n)
 pSin_x = math.sin(x_rotation)
